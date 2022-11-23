@@ -1,0 +1,27 @@
+VOGLIO GUARDARE NETFLIX
+
+APRO L'APP DI NETFLIX
+    SE l'app di NETFLIX è chiusa
+                prendo il telecomando
+                seleziono l'app di netflix
+                 vado alla libreria
+    ALTRIMENTI
+        vado alla libreria
+        
+SE ho meno di un ora
+    guardo una serie-tv su NETFLIX
+    
+ALTRIMENTI 
+    guardo un film
+
+voglio scegliere un genere
+    vado sulla barra del genere
+    esploro la libreria del genere
+        SE l'ho già visto 
+            continuo ad esplorare la libreria del genere
+        ALTRIMENTI
+            leggo la trama
+                SE mi piace 
+                    guardo
+                ALTRIMENTI
+                    continuo ad esplorare la libreria del genere
